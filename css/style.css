@@ -1,0 +1,30 @@
+body{
+    display: block;
+    margin: 10px;
+}
+footer {
+    padding: 1px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(26, 14, 186);
+    height: 85px;
+  }
+
+footer a{
+
+    padding: 10px;
+    text-decoration:none ;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+
+}
+.col-sm-4 {
+ margin-top: 20px;
+ margin-bottom: 5px;
+}
+h1{
+    background-color: rgb(26, 14, 186);;
+    color: white;
+    border-radius: 0.1;
+}
